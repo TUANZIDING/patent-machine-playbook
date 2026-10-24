@@ -1,0 +1,8 @@
+# 案件材料与产出只留本地，不进公开仓库
+outputs/
+cases/
+*.docx
+*.pdf
+.env
+__pycache__/
+.DS_Store
